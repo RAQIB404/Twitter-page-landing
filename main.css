@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.box1{
+    background-color:black;
+}
+.box2{
+    float:right;
+    margin-top: -450px;
+    padding-right: 550px;
+}
+.box3{
+    float:right;
+    margin-top: -370px;
+    padding-right: 317px;
+    color: white;
+    font-size: x-large;
+    font-family: 'Oswald', sans-serif;
+}
+.box4{
+    float: right;
+    margin-top: -280px;
+    padding-right: 403px;
+    color: white;
+}
+.box5{
+    font-family: 'Oswald', sans-serif;
+}
+.box6{
+    background-color: rgb(16, 173, 235);
+    border-color: rgb(16, 173, 235);
+    border-radius: 30px;
+    width: 180px;height: 30px;
+    border-color: deepskyblue;
+}
+.box7{
+    background-color: black;
+    color: deepskyblue;
+    width: 180px;height: 30px;
+    border-radius: 30px;
+    border-color: deepskyblue;
+}
+.box8{
+    color: rgb(184, 181, 181);
+}
